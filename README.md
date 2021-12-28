@@ -1,2 +1,1 @@
-# rs-school-cv
-My CV
+# My super CV
